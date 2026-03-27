@@ -54,12 +54,6 @@ Automated scheduling system with conflict resolution & role-based access.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamghodake\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: [shivam.ghodake22@gmail.com](mailto:shivam.ghodake22@gmail.com)
