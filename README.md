@@ -1,6 +1,5 @@
 # Hi 👋 I'm Shivam Ghodake
 
-🚀 Backend Engineer | System Design Enthusiast
 🎓 Final Year BTech IT @ VIT Pune
 💼 Software Engineer Intern @ SKS Enterprises
 
@@ -36,7 +35,7 @@ MySQL | PostgreSQL | MongoDB
 
 ## 🚀 Featured Projects
 
-### 🔹 CyberSentinel (Security Platform)
+### 🔹 CyberSentinel : A Secure Web-Based Platform for Live Network Monitoring and Threat Detection
 
 Real-time network monitoring system with alert pipelines and threat detection.
 
@@ -44,7 +43,7 @@ Real-time network monitoring system with alert pipelines and threat detection.
 
 Unix-like file system with core operations, memory management & metadata handling.
 
-### 🔹 Mutual Fund Recommendation System
+### 🔹 Mutual Fund Recommendation System and Portfolio Management
 
 Portfolio optimization system using risk-return balancing.
 
@@ -56,7 +55,7 @@ Automated scheduling system with conflict resolution & role-based access.
 
 ## 📫 Connect With Me
 
-📧 Email: [shivam.ghodake22@gmail.com](mailto:shivam.ghodake22@gmail.com)
+📧 Email: [shivam.ghodake22@gmail.com](mailto:shivam.ghodake22@gmail.com) 
 🔗 LinkedIn: https://linkedin.com/in/shivamghodake
 
 ---
