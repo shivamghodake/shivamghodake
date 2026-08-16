@@ -1,22 +1,18 @@
-# Hi 👋 I'm Shivam Ghodake
+# 👋 Hi, I'm Shivam Ghodake
 
-🎓 Final Year BTech IT @ VIT Pune
-💼 Software Engineer Intern @ SKS Enterprises
+🎓 **BTech Information Technology — VIT Pune | Graduate**
 
----
-
-## 🧠 About Me
-
-I build **scalable backend systems** and **performance-driven applications** focused on real-world impact.
-Strong foundation in **Data Structures, OOP, and System Design**, with hands-on experience in production-level engineering.
+💼 **Software Engineer @ Barclays**
 
 ---
 
 ## 🏆 Achievements
 
-📄 4 Research Papers (IEEE & Springer)
-🛡️ Patent: *CyberSentinel – Network Monitoring & Threat Detection (2025)*
-💼 SWE Intern @ SKS Enterprises
+📄 **4 Research Papers** — IEEE & Springer
+
+🛡️ **Patent:** *CyberSentinel – Network Monitoring & Threat Detection (2025)*
+
+💼 **Software Engineer @ Barclays**
 
 ---
 
@@ -33,31 +29,10 @@ MySQL | PostgreSQL | MongoDB
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 CyberSentinel : A Secure Web-Based Platform for Live Network Monitoring and Threat Detection
-
-Real-time network monitoring system with alert pipelines and threat detection.
-
-### 🔹 Custom Virtual File System (C)
-
-Unix-like file system with core operations, memory management & metadata handling.
-
-### 🔹 Mutual Fund Recommendation System and Portfolio Management
-
-Portfolio optimization system using risk-return balancing.
-
-### 🔹 Timetable Management System
-
-Automated scheduling system with conflict resolution & role-based access.
-
----
-
 ## 📫 Connect With Me
 
-📧 Email: [shivam.ghodake22@gmail.com](mailto:shivam.ghodake22@gmail.com) 
-🔗 LinkedIn: https://linkedin.com/in/shivamghodake
+📧 **Email:** [shivam.ghodake22@gmail.com](mailto:shivam.ghodake22@gmail.com)
+
+🔗 **LinkedIn:** https://linkedin.com/in/shivamghodake
 
 ---
-
-⭐ *“Building systems that scale, not just projects that run.”*
